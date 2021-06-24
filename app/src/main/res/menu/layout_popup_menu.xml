@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuItem_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile" />
+    <item
+        android:id="@+id/menuItem_account"
+        android:title="Account" />
+    <item
+        android:id="@+id/menuItem_logout"
+        android:icon="@drawable/ic_baseline_arrow_back_24"
+        android:title="Log out" />
+</menu>

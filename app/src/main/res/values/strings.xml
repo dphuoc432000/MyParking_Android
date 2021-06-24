@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyParking</string>
+    <string name="api_key">AIzaSyBOQHzfQB6WEueMOeoHtPu8QqqzYctDakw</string>
+    <!--    <string name="api_key">AIzaSyCuW64Q_F7KoJONACUVaY58TH3KVdkhEuA</string>-->
+    <string name="bottom_sheet_peek">bottom sheet peek</string>
+    <string name="bottom_sheet_content">bottom sheet content</string>
+</resources>
